@@ -15,3 +15,7 @@ Everything in life has a purpose
 Deploy to prod probably
 
 ## How to Contribute
+
+### Copyright 
+
+2014 Git.Training
