@@ -1,3 +1,4 @@
 something.txt
 *.log
 log/
+*.orig
