@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website. Adding a line for rebasing example. Then more changes form myfrature branch too
+This is a simple website. Emergency  Fix after stash
 
 ## Introduction
 
